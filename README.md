@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Emmanuel Adeyemi</h1>
 <h3 align="left">A Fullstack Developer from Turkey</h3>
 <p align="left">Hello, I am Ola 🙂. A web designer and developer from Nigeria, based in Turkey. I create amazing websites and mobile apps to help people go further online.</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 📫 How to reach me **yemicodes@gmail.com**
@@ -17,9 +16,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yemicodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yemicodes" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemicodes&show_icons=true&locale=en&layout=compact" alt="yemicodes" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yemicodes&show_icons=true&locale=en" alt="yemicodes" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yemicodes&" alt="yemicodes" /></p>
